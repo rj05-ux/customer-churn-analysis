@@ -80,6 +80,19 @@ The model demonstrates strong overall performance with improved ability to detec
 
 ---
 
+## Business Perspective
+
+This analysis is designed to support business decisions by turning customer behavior data into retention actions. The insights help:
+
+- Prioritize high-risk customers for targeted retention campaigns
+- Allocate marketing budget toward engagement and satisfaction improvements
+- Reduce revenue loss by identifying churn triggers early
+- Improve lifetime customer value through proactive outreach
+
+By focusing on engagement, satisfaction, and inactivity, this project delivers practical recommendations that can reduce churn and increase long-term profitability.
+
+---
+
 ## Key Insights
 
 - Customer engagement is the most significant factor influencing churn
