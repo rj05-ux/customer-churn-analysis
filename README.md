@@ -116,27 +116,17 @@ The model demonstrates strong overall performance with improved ability to detec
 customer-churn-analysis/
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
+│   └── dataset.csv
 │
 ├── notebooks/
-│   └── churn_analysis.ipynb
+│   └── data_preprocessing.py
 │
 ├── portfolio/
 │   ├── index.html
 │   └── style.css
 │
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model.py
-│
-├── outputs/
-│   ├── plots/
-│   └── results/
-│
 ├── main.py
-├── requirements.txt
+├── LICENSE
 └── README.md
 
 ---
