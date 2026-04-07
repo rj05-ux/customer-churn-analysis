@@ -113,21 +113,20 @@ The model demonstrates strong overall performance with improved ability to detec
 
 ## Project Structure
 
-customer-churn-analysis/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   └── data_preprocessing.py
-│
-├── portfolio/
-│   ├── index.html
-│   └── style.css
-│
-├── main.py
-├── LICENSE
-└── README.md
+```mermaid
+flowchart TD
+  A[customer-churn-analysis]
+  A --> B[data]
+  B --> B1[dataset.csv]
+  A --> C[notebooks]
+  C --> C1[data_preprocessing.py]
+  A --> D[portfolio]
+  D --> D1[index.html]
+  D --> D2[style.css]
+  A --> E[main.py]
+  A --> F[LICENSE]
+  A --> G[README.md]
+```
 
 ---
 
